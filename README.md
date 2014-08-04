@@ -1,4 +1,4 @@
-![image](https://www.dropbox.com/s/cc0yhwb3kikt0iq/binderclip.jpg)
+![image](https://dl.dropboxusercontent.com/s/cc0yhwb3kikt0iq/binderclip.jpg)
 
 #Laravel BinderClip
 
