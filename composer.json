@@ -1,0 +1,20 @@
+{
+    "name": "coderabbi/binderclip",
+    "description": "Laravel Bindings Service Provider - Specify Application Bindings in a Configuration File for Auto-Registration",
+    "keywords": ["laravel", "bindings", "service provider", "ioc container"],
+    "license": "MIT",
+    "authors": [{
+        "name": "Yitzchok Willroth (@coderabbi)",
+        "email": "coderabbi@gmail.com"
+    }],
+    "require": {
+        "php": ">=5.5.0",
+        "laravel/framework": "4.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Coderabbi\\BinderClip": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
